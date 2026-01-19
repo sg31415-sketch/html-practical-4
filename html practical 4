@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Marks</title>
+    <style>
+        table, th, td {
+            border: 1px solid #000;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+        th {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<h3>My Last Semester Marks</h3>
+
+<table>
+    <tr>
+        <th>S.No</th>
+        <th>Subject</th>
+        <th>Marks</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>Applied Physics</td>
+        <td>85</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>Communication</td>
+        <td>78</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>Mathematics</td>
+        <td>82</td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td>Python Language</td>
+        <td>90</td>
+    </tr>
+
+    <tr>
+        <td>5</td>
+        <td>C Language</td>
+        <td>88</td>
+    </tr>
+
+    <tr>
+        <td>6</td>
+        <td>Intro to Computer Science Engg</td>
+        <td>91</td>
+    </tr>
+</table>
+
+</body>
+</html>
